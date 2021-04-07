@@ -1,0 +1,7 @@
+name: MiniFix
+main: ru.mdxd44.minifix.MiniFix
+version: 0.1-SNAPSHOT
+author: mdxd44
+depend:
+  - ProtocolLib
+description: Фиксит краш раздатчиком и шалкером для 1.12.2, а так же фиксит пакетную атаку книгой для рецептов.
