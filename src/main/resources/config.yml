@@ -1,0 +1,2 @@
+# crash attempt notification message
+notifyMsg: "&cSomeone tried to crash server by throwing a shulker at &6{X} {Y} {Z}"

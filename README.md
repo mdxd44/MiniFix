@@ -1,7 +1,7 @@
-# MiniFix
-В кратце: на версии 1.12.2 и ниже есть баг, с раздатчиком и шалкером с помощью которого можно крашнуть сервер. Этот плагин исправляет это и пишет в консоль при попытки использовать этот баг. Также в плагине есть фикс от пакетной атаки с помощью книги рецептов.
+# ShulkerFix
+На версии 1.12.2 и ниже есть баг, с раздатчиком и шалкером с помощью которого можно крашнуть сервер. Мой плагин исправляет это, а также пишет в консоль и админам при попытки использовать этот баг.
 
-In short: on version 1.12.2 and below there is a bug with a dispenser and a shulker with which you can crash the server. This plugin fixes this and writes to the console when trying to exploit this bug. Also in the plugin there is a fix for a batch attack using a recipe book. (RUS)
+On version 1.12.2 and below there is a bug with a dispenser and a shulker with which you can crash the server. My plugin fixes this and also writes to the console and admins when trying to exploit this bug.
 
-# Зависимости / Dependencies
-ProtocolLib
+# Permissions / Права
+**shulkerfix.notify** - У игрока с этим правом в чате будут отображатся попытки краша. / Crash attempts will be displayed for a player with this permission in the chat.
